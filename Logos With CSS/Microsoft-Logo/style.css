@@ -1,0 +1,33 @@
+/* ONLY FOR CODEPENL */
+body {
+    margin: 0;
+    display: grid;
+    place-content: center;
+    height: 100vh;
+    background: #222;
+  }
+  
+  /* Main Styles */
+  .wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    filter: drop-shadow(0 0 2em rgb(160, 144, 144));
+  }
+  .wrapper > * {
+    width: 200px;
+    height: 200px;
+  }
+  .red {
+    background: #f44336;
+  }
+  .green {
+    background: #4caf50;
+  }
+  .blue {
+    background: #2196f3;
+  }
+  .yellow {
+    background: #ffc107;
+  }
+  
