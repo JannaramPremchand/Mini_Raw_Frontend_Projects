@@ -1,0 +1,23 @@
+{
+    "easy": [
+      "The sun is bright and makes it warm outside.",
+      "Cats like to chase mice and play with yarn.",
+      "We eat food to keep our bodies strong and healthy.",
+      "I like to read books about animals and adventure.",
+      "The moon comes out at night and shines in the sky."
+    ],
+    "medium": [
+      "During the daytime, the sun radiates warmth, creating a pleasant atmosphere outdoors. People delight in the sunshine, basking in its comforting rays. It's a period when flowers blossom, birds chirp merrily, and youngsters frolic in the open air.",
+      "Cats exhibit curiosity and agility, known for their penchant for chasing mice and playing with yarn. Their keen senses and nimble movements enable them to capture prey effortlessly. Cats also relish lounging in sunny spots and meticulously grooming themselves.",
+      "Consuming nutritious food is vital for sustaining optimal health and vitality. It furnishes our bodies with essential nutrients, including vitamins, minerals, and calories necessary for growth and daily functioning. A well-rounded diet comprises fruits, vegetables, grains, protein sources, and dairy products.",
+      "Engaging in reading broadens horizons and enriches understanding. Children derive particular pleasure from animal-themed narratives, which impart knowledge about diverse species and their habitats. Adventure stories engross readers, transporting them to thrilling realms and gripping escapades.",
+      "As night falls, the moon emerges in the sky, casting a soft luminance over the surroundings. The stars twinkle brilliantly, creating a mesmerizing spectacle. Individuals often find solace and tranquility in the moon's serene glow, appreciating its ethereal beauty."
+    ],
+    "hard": [
+      "In the diurnal phase, the sun emanates fervent rays, imbuing the environment with an ambient warmth. Individuals derive solace from the luminosity, luxuriating in its effusive brilliance. This epoch witnesses florae efflorescing, avifauna warbling joyously, and juveniles cavorting exuberantly in the expanse.",
+      "Felids manifest innate curiosity and dexterity, renowned for their predilection towards pursuing murine prey and engaging in tactile exploration with fibrous strands. Their acute sensory acumen and agile locomotion afford them effortless predation. Felines also derive gratification from reclining in solar luciencies and meticulously tending to their pelage.",
+      "Assimilating nutritive sustenance is imperative for perpetuating optimal well-being and metabolic vigor. It endows our corporeal vessels with indispensable phytonutrients, micronutrients, and caloric sustenance requisite for somatic augmentation and diurnal functionality. An integrative nutritional regimen encompasses frugivorous varietals, horticultural cultivars, cereal commestibles, proteinaceous rations, and lactiferous derivatives.",
+      "Consummating literary pursuits bequeaths expansive vistas and cognitive augmentation. Offspring, in particular, derive immense gratification from faunal-themed chronicles, wherein erudition concerning sundry taxa and their ecosystems is imbued. Peregrination sagas enrapture bibliophiles, transporting them to realms teeming with vicissitudinous confluences and riveting exploits.",
+      "As crepuscular hues envelop the firmament, the lunar orb ascends, casting a lambent sheen upon the terrestrial expanse. Celestial orbs flicker resplendently, engendering a mesmerizing tableau. Denizens often revel in the placidity and serenity evoked by the moon's iridescent luminescence, extolling its ineffable pulchritude."
+    ]
+  }

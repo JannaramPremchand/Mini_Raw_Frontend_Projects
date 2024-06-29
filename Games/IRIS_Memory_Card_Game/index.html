@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IRIS Memory Card Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <h1>IRIS Memory Card Game</h1>
+        <div class="controls">
+            <div class="star-list">
+                <i class="fas fa-star star-1 stars"></i>
+                <i class="fas fa-star star-2 stars"></i>
+                <i class="fas fa-star star-3 stars"></i>
+                <span class="moves-container">
+                <span class="moves-selector">0</span>
+                Moves
+                </span>
+            </div>
+            <div class="time-container">
+                <div class="timer"></div>
+                <div class="game-start-btn">Star Game</div>
+                <button class="game-stop-btn hide-start-btn">Stop Game</button>
+            </div>
+            <div class="refresh">
+                <i class="fas fa-redo-alt"></i>
+            </div>
+        </div>
+    </header>
+    <section class="game-container">
+        <ul class="deck">
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+            <li class="card">
+                <div class="card-container">
+                    <i class="card-face front"></i>
+                    <i class="card-face fab back"></i>
+                </div>
+            </li>
+        </ul>
+    </section>
+    <div class="win">
+        <h1>Congratulations!</h1>
+        <h3>- You won! -</h3>
+        <p>It took you about <span class="seconds">32</span> Seconds to complete the game <br> with <span class="moves">17</span> Moves and <span class="star">1</span> Stars.<br>Woooohoooooo!</p>
+        <button class="replay">Play again!</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
